@@ -1,0 +1,16 @@
+.bootcamp {
+    width: 470px;
+    
+}
+.p_bootcamp {
+    font-size: 14px;
+}
+.col-lg-5 {
+    margin-right: 15px;
+}
+@media (max-width: 991px) {
+  .card {
+      left: 50%;
+      transform: translate(-50%);
+  }
+}
